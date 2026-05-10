@@ -1,0 +1,1 @@
+Die bridge mit node index.js starten nachdem du die config deinen token rein hast, die chrome extension installieren und auf lucidtrading im vault tab sein. Codes werden instant gescraped, geshuffled und an die extension geschickt und mit dem delay +- 500ms randomized durch getestet. 
