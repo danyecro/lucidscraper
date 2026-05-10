@@ -1,0 +1,6 @@
+{
+  "token": "Dein-Discord-Usertoken((gibt eine chrome extension die sie aus den api calls scraped",
+  "channelIds": ["1344026694691848274"],
+  "codePattern": "LBOX-[A-Z0-9]{18}",
+  "port": 3847
+}
